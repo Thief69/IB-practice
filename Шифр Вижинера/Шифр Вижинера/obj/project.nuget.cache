@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Elo7IR1JGeaWyOxNl7foId5LLSAwWWk6JNuxECl4gCE4xxOJT35K+mXXPxWqu+Nlf9yEhrcPYt357LY36tU0mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Руся\\Desktop\\money-live-main\\Шифр Вижинера\\Шифр Вижинера\\Шифр Вижинера.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Руся\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Руся\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Руся\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Руся\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
